@@ -121,6 +121,6 @@ This project is part of the **RAS-SES-598 Space Robotics and AI** course.
 
 ---
 ### 📽️ Video Demonstrations
-- **[Configuration 1: Unstable LQR](#)**
-- **[Configuration 2: Optimized LQR](#)**
+- **[Configuration 1: Unstable LQR](https://drive.google.com/file/d/1YMvMBIdH_RcTp0kUGODjafDFGbD7H5oO/view?usp=sharing)**
+- **[Configuration 2: Optimized LQR](https://drive.google.com/file/d/15NyVFHziA2uMw2cDF45lpKd961qBSA6_/view?usp=sharing)**
 
