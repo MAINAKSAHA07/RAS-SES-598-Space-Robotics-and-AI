@@ -30,7 +30,7 @@ self.R = np.array([[0.06]])  # Control cost
 ```
 **Results:** The inverted pendulum falls after **15 seconds** due to improper tuning.
 
-**Recording:** 
+**Recording:** [View Configuration 1 Performance](https://drive.google.com/file/d/1YMvMBIdH_RcTp0kUGODjafDFGbD7H5oO/view?usp=sharing)
 
 #### **Configuration 2 (Optimized):**
 ```python
@@ -39,7 +39,7 @@ self.R = np.array([[0.06]])  # Control cost
 ```
 **Results:** The controller successfully stabilizes the pendulum under earthquake disturbances.
 
-**Recording:** [View Configuration 2 Performance](#)
+**Recording:** [View Configuration 2 Performance](https://drive.google.com/file/d/15NyVFHziA2uMw2cDF45lpKd961qBSA6_/view?usp=sharing)
 
 ## Setup & Installation
 ### Prerequisites
