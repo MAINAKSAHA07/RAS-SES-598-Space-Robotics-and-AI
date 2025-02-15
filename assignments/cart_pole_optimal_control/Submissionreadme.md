@@ -49,9 +49,9 @@ self.R = np.array([[0.06]])  # Control cost
 
 ## Setup & Installation
 ### Prerequisites
-- **ROS2 Humble/Jazzy**
+- **ROS2 Humble**
 - **Gazebo Garden**
-- **Python 3.8+**
+- **Python 3.11**
 - **Required Packages:** `numpy`, `scipy`, `control`
 
 ### Installation Commands
