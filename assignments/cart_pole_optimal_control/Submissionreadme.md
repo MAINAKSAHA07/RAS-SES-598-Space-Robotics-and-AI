@@ -1,4 +1,10 @@
 # LQR Controller for Cart-Pole System under Earthquake Disturbances
+![Screenshot from 2025-02-15 15-50-39](https://github.com/user-attachments/assets/0645ed5d-0250-4ec1-9081-4203ba12e465)
+
+
+
+https://github.com/user-attachments/assets/bc885077-84df-4095-9788-3527d49c2d5a
+
 
 ## Overview
 This project involves tuning and analyzing an LQR (Linear Quadratic Regulator) controller for a cart-pole system subjected to earthquake disturbances. The objective is to maintain the inverted pendulum's stability while ensuring the cart remains within its physical constraints despite external perturbations.
